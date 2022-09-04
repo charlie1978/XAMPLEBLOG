@@ -1,3 +1,7 @@
+EN ESTE ARCHIVO ESTAN LOS COMANDOS DE GIT PARA QUE RABAJEMOS BIEN BACANIADOS
+
+USO DE GIT:
+
 usage: git [--version] [--help] [-C <path>] [-c name=value]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
